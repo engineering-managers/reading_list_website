@@ -1,3 +1,6 @@
+baseURL = "/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
 title = "Engineering Managers reading list"
 theme = "hugo-theme-learn"
 [outputs]
