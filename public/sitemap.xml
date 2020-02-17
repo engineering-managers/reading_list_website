@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/first-time-managers/</loc>
+    <loc>https://engineering-managers.github.io/first-time-managers/</loc>
     <lastmod>2020-02-16T19:09:14-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/projects/</loc>
+    <loc>https://engineering-managers.github.io/projects/</loc>
     <lastmod>2020-02-16T19:11:13-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/people/</loc>
+    <loc>https://engineering-managers.github.io/people/</loc>
     <lastmod>2020-02-16T19:10:54-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/technical/</loc>
+    <loc>https://engineering-managers.github.io/technical/</loc>
     <lastmod>2020-02-16T19:09:28-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://engineering-managers.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://engineering-managers.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://engineering-managers.github.io/tags/</loc>
   </url>
   
 </urlset>
