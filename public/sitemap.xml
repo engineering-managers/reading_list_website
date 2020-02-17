@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://engineering-managers.github.io/first-time-managers/</loc>
+    <lastmod>2020-02-16T19:09:14-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://engineering-managers.github.io/projects/</loc>
     <lastmod>2020-02-16T19:11:13-07:00</lastmod>
   </url>
@@ -15,11 +20,6 @@
   <url>
     <loc>https://engineering-managers.github.io/technical/</loc>
     <lastmod>2020-02-16T19:09:28-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://engineering-managers.github.io/first-time-managers/</loc>
-    <lastmod>2020-02-16T19:09:14-07:00</lastmod>
   </url>
   
   <url>

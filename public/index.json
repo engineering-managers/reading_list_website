@@ -1,5 +1,12 @@
 [
 {
+	"uri": "https://engineering-managers.github.io/first-time-managers/",
+	"title": "First Time Managers",
+	"tags": [],
+	"description": "",
+	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
+},
+{
 	"uri": "https://engineering-managers.github.io/projects/",
 	"title": "Projects",
 	"tags": [],
@@ -16,13 +23,6 @@
 {
 	"uri": "https://engineering-managers.github.io/technical/",
 	"title": "Technical",
-	"tags": [],
-	"description": "",
-	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
-},
-{
-	"uri": "https://engineering-managers.github.io/first-time-managers/",
-	"title": "First Time Managers",
 	"tags": [],
 	"description": "",
 	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
