@@ -1,3 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "engineering-managers.github.io/reading_list"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Engineering Managers reading list"
+theme = "hugo-theme-learn"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
