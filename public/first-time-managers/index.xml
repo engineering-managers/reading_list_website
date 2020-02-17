@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First Time Managers on Engineering Managers reading list</title>
+    <link>engineering-managers.github.io/reading_list/first-time-managers/</link>
+    <description>Recent content in First Time Managers on Engineering Managers reading list</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Feb 2020 19:09:14 -0700</lastBuildDate>
+    
+	<atom:link href="engineering-managers.github.io/reading_list/first-time-managers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
