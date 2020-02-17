@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Engineering Managers reading list</title>
-    <link>engineering-managers.github.io/reading_list/</link>
+    <link>https://engineering-managers.github.io/</link>
     <description>Recent content on Engineering Managers reading list</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="engineering-managers.github.io/reading_list/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://engineering-managers.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
