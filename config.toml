@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://engineering-managers.github.io/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 title = "Engineering Managers reading list"
