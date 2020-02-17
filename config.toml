@@ -1,5 +1,3 @@
-baseURL = "engineering-managers.github.io"
-languageCode = "en-us"
 title = "Engineering Managers reading list"
 theme = "hugo-theme-learn"
 relativeURLs = true
