@@ -6,7 +6,7 @@ set -e
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project.
-hugo -t hugo-theme-learn -b engineering-managers.github.io --minify
+hugo -t hugo-theme-learn
 # Go To Public folder
 cd public
 
