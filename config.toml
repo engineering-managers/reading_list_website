@@ -1,5 +1,4 @@
 title = "Engineering Managers reading list"
 theme = "hugo-theme-learn"
-relativeURLs = true
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
